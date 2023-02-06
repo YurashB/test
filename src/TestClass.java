@@ -9,4 +9,7 @@ public class TestClass {
         return a + b;
     }
 
+    private static int sub(int a, int b) {
+        return a - b;
+    }
 }
